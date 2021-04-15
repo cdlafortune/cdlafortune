@@ -1,6 +1,5 @@
-### Hi, I'm Cris 👋
-- 😄 Pronouns: he/him/his
-- 🔭 Lambda School 2021 graduate (Full Stack Web Development)
+### Hi, I'm Cris 👋 he/him/his
+- :tada: Lambda School 2021 graduate (Full Stack Web Development)
 - 🌱 I have 1 year experience with React, Node, & HTML/CSS
 - :grin: Check out my portfolio site [here](https://crislafortune.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cris-lafortune/)
